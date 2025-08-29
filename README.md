@@ -81,5 +81,5 @@ E-commerse store analysis/
 ### Refresh and data source settings
 - This project is designed for local CSV inputs. If publishing to Power BI Service, use a gateway or store data in a service-accessible location (e.g., OneDrive/SharePoint) and map the dataset credentials accordingly.
 
-### License
-MIT
+
+
